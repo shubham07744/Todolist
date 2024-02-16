@@ -4,22 +4,13 @@
 /node_modules
 /.pnp
 .pnp.js
-/backend/public
-/backend/logo.svg
-/backend/node_modules
-/backend/reportWebVitals.js
-/backend/index.css
-/package-lock.json
+/package-lock-json
 /package.json
-/backend/package-lock.json
-/backend/package.json
-/public
-src/logo.svg
-src/reportWebVitals.js
-src/index.css
+backend/node_modules
+src/components/App.css
 # testing
 /coverage
-
+/public
 # production
 /build
 
